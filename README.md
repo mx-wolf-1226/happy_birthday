@@ -1,5 +1,7 @@
 # Happy Birthday
 
+![Alt Original test post on Twitter](https://github.com/mx-wolf-1226/happy_birthday/raw/main/preview.png)
+
 This program checks today's date against the `date` string variable imported from `mybday.py`. 
 
 If the variables match  *(eg. "Nov05")*, then a birthday message will be generated with the lyrics from The Beatles' song, *'Birthday'* 
