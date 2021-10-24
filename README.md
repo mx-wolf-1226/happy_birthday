@@ -1,6 +1,6 @@
 # Happy Birthday
 
-![Alt Original test post on Twitter](https://github.com/mx-wolf-1226/happy_birthday/raw/main/preview.png)
+[![Alt Original test post on Twitter](https://github.com/mx-wolf-1226/happy_birthday/raw/main/preview.png)](https://twitter.com/redoctbot/status/1452371394398810117)
 
 This program checks today's date against the `date` string variable imported from `mybday.py`. 
 
