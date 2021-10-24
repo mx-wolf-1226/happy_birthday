@@ -61,8 +61,7 @@ def post_msg():
     if check_date():
         print('Posting your birthday message to Twitter...\n')
         with open('lyrics.txt', 'r') as lyrics:
-            api.update_status("#Day8 of #100DaysOfCode... If I coded this correctly, it should post a celebratory "
-                              "message just for me!\n\n" + lyrics.read())
+            api.update_status("Custom message goes here...\n\n" + lyrics.read())
         print('Your Twitter status has been successfully updated...\n\tHappy Birthday!')
     else:
         print("It's not your birthday yet, dweeb!\n\tCheck back another time.")
