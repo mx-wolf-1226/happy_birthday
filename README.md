@@ -2,7 +2,7 @@
 
 This program checks today's date against the `date` string variable imported from `mybday.py`. 
 
-Then, if the variables match  *(eg. "Nov05")*, then a birthday message will be generated with the lyrics from The Beatles' song, *'Birthday'* 
+If the variables match  *(eg. "Nov05")*, then a birthday message will be generated with the lyrics from The Beatles' song, *'Birthday'* 
 and post it to the Twitter account linked to the API credentials stored in `creds.py`.
 
 **Please make sure to create both `mybday.py` and `creds.py` *BEFORE* running the program. Failure to do so will cause errors.**
